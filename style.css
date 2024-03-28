@@ -1,0 +1,14 @@
+body {
+	margin: 0px;
+	overflow: hidden;
+	background-color: #BCC8BC;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.btn-success{
+	background-color: #0C7A1E;
+}
+
+h3{
+	color: black;
+}
